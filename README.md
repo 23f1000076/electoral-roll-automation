@@ -385,23 +385,7 @@ Review reports are automatically generated whenever necessary.
 Verify the Poppler installation path in the configuration.
 
 ---
-
-# Contributing
-
-Contributions are welcome.
-
-If you find bugs or have feature suggestions, feel free to create an issue or submit a pull request.
-
----
-
 # Disclaimer
-
-This project is intended for educational, research, and data engineering purposes.
 
 Please ensure that your use of the Election Commission of India website complies with all applicable laws, website terms of use, and data privacy regulations. CAPTCHA handling remains manual to respect the portal's anti-automation safeguards.
 
----
-
-# License
-
-This project is released under the MIT License. Feel free to use, modify, and distribute it according to the license terms.
